@@ -80,45 +80,61 @@ Default CSS
   height: 40px;
   width: 40px;
 }
+h2 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+}
 
 .testimonials-area-another .container  {
   direction: ltr;
   flex-direction: row-reverse;
   text-align: left;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 
 }
 
 .reservation-tab-item {
   direction: ltr;
   flex-direction: row-reverse;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .book-area .container  {
   direction: ltr;
   flex-direction: row-reverse;
-  text-align: left;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 
+
+}
+
+.side-bar-wrap h3 {
+  margin-right: 20px;
+  padding-top: 20px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .room-details-area .container  {
   direction: ltr;
   flex-direction: row-reverse;
-  text-align: left;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+
 
 }
 
 .team-area-three .container {
   direction: ltr;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .testimonials-area-three .container {
   direction: ltr;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .banner-form-area .container  {
   direction: ltr;
   flex-direction: row-reverse;
   text-align: left;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 
 }
 
@@ -128,13 +144,14 @@ body {
   line-height: 1.8;
   direction: rtl;
   text-align: right;
-  font-family: "Vazirmatn", Tahoma, sans-serif;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   color: #555555;
   font-weight: 400;
 
 }
 h1, h2, h3, h4, h5, h6, p, li {
   text-align: right;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 
 }
 .container, .content, .main {
@@ -304,7 +321,7 @@ Default Btn Style
 
 .btn-bg-one {
   /*background-color: #131b46;*/
-  background-color: #f2f16f;
+  background-color: #7fd0dc;
 }
 
 .btn-bg-two {
@@ -331,10 +348,12 @@ Section Title Style
 
 .faq-area .section-title h2 {
   text-align: right;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .book-content-two .section-title h2 {
   text-align: right;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .section-title h2 {
@@ -345,6 +364,7 @@ Section Title Style
   line-height: 1.4;
   color: #292323;
   margin-bottom: 0;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .section-title p {
@@ -1345,6 +1365,7 @@ Main Banner Area
 }
 
 .banner-content h1 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   font-size: 60px;
   line-height: 1.2;
   font-weight: 700;
@@ -1642,7 +1663,7 @@ Inner Banner
   color: #ffffff;
   font-weight: 700;
   position: relative;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .inner-bg1 {
@@ -1744,6 +1765,7 @@ About Area
 
 .about-content .section-title {
   margin-bottom: 20px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .about-content ul {
@@ -1893,7 +1915,7 @@ Choose Area
 ====================================*/
 .choose-area .section-title h2 {
   max-width: 600px;
-
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin: 0 auto;
 }
 
@@ -1952,6 +1974,7 @@ Choose Area
 
 .choose-card h3 {
   margin-bottom: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   text-align: center;
 }
 
@@ -2083,6 +2106,7 @@ Services Area
 
 .services-area .section-title h2 {
   max-width: 650px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin: 0 auto;
 }
 
@@ -2139,7 +2163,9 @@ Services Area
 .services-item {
   background-color: #F5F5F5;
   padding: 30px;
+  text-align: center;
   border-radius: 5px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 30px;
 }
 
@@ -2168,6 +2194,8 @@ Services Area
 
 .services-item h3 {
   margin-bottom: 10px;
+  text-align: center;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .services-item h3 a {
@@ -2252,9 +2280,15 @@ Services Area
   text-align: center;
   margin-bottom: 15px;
 }
-
+.services-bar-widget h3 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+  margin-right: 20px;
+  padding-top: 20px;
+}
 .services-card h3 {
   margin-bottom: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+  text-align: center;
 }
 
 .services-card h3 a {
@@ -2301,6 +2335,7 @@ Services Area
 
 .services-area-three .section-title h2 {
   max-width: 650px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   text-align: center;
   margin: 0 auto;
 }
@@ -2334,6 +2369,7 @@ Services Area
 
 .service-item-two .content h3 {
   margin-bottom: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .service-item-two .content h3 a {
@@ -2373,6 +2409,7 @@ Services Area
 }
 
 .service-article .service-article-title h2 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   font-size: 26px;
   margin-bottom: 20px;
   max-width: 500px;
@@ -2434,6 +2471,7 @@ Services Area
 }
 
 .service-article .service-facility-content h2 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   font-size: 26px;
   color: #292323;
   margin-bottom: 15px;
@@ -2452,6 +2490,7 @@ Services Area
 .service-article .service-facility-content ul li {
   display: block;
   margin-bottom: 10px;
+  direction: ltr;
 }
 
 .service-article .service-facility-content ul li:last-child {
@@ -2474,6 +2513,7 @@ Services Area
 .service-article .more-services h2 {
   font-size: 26px;
   color: #292323;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 20px;
 }
 
@@ -2653,6 +2693,7 @@ Reservation Area
 
 .reservation-widget-content h2 {
   font-size: 26px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 25px;
 }
 
@@ -2704,8 +2745,9 @@ Ability Area
 }
 
 .ability-content .ability-counter h3 {
-  font-size: 45px;
-  color: #C890FF;
+  font-size: 35px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+  color: #1B2132;
   margin-bottom: 0;
 }
 
@@ -2881,6 +2923,7 @@ Specialty Area
 
 .specialty-list .specialty-list-card h3 {
   margin-bottom: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .specialty-list .specialty-list-card p {
@@ -2929,6 +2972,7 @@ Room Area
 
 .room-card .content h3 {
   margin-bottom: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .room-card .content h3 a {
@@ -3036,6 +3080,7 @@ Room Area
 
 .room-item .content h3 {
   margin-bottom: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .room-item .content h3 a {
@@ -3155,6 +3200,7 @@ Room Area
 
 .room-card-two .room-card-content h3 {
   margin-top: 0;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   font-size: 24px;
   margin-bottom: 10px;
   font-weight: 700;
@@ -3167,11 +3213,11 @@ Room Area
   color: #292323;
 }
 .room-card-two .room-card-content .line-2 {
-  max-width: 215px;
+  max-width: 100%;
   display: flex;
   flex-direction: row-reverse; /* RTL-compatible: right to left */
   align-items: center;
-  gap: 1rem;
+  gap: 20px;
 }
 .room-card-two .room-card-content span {
 
@@ -3179,7 +3225,7 @@ Room Area
   display: inline-block;
   color: #131b46;
   /*margin-right: 110px;*/
-  top: -5px;
+
 }
 
 .room-card-two .room-card-content .rating {
@@ -3190,7 +3236,7 @@ Room Area
   display: inline-block;
   position: absolute;
   top: 44px;
-  right: 20px;
+  right: 42px;
 }
 
 .room-card-two .room-card-content p {
@@ -3204,7 +3250,6 @@ Room Area
   padding: 0;*/
 
   display: flex;
-  flex-wrap: wrap;
   gap: 0.5rem 0.5rem; /* row and column spacing */
   list-style: none; /* optional: remove bullet points */
   padding: 0;
@@ -3215,7 +3260,7 @@ Room Area
 .room-card-two .room-card-content ul li {
   width: 140px; /* two columns — adjust for spacing */
   box-sizing: border-box;
-
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   color: #292323;
   font-size: 15px;
   /*margin-right: 15px;*/
@@ -3228,6 +3273,7 @@ Room Area
 
 .room-card-two .room-card-content ul li i {
   font-size: 18px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   color: #131b46;
   margin-right: 2px;
   position: relative;
@@ -3266,6 +3312,7 @@ Room Area
 
 .side-bar-form h3 {
   text-align: center;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   font-size: 22px;
   margin-bottom: 20px;
 }
@@ -3375,6 +3422,7 @@ Room Area
 .side-bar-plan h3 {
   padding-top: 30px;
   font-size: 22px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 20px;
 }
 
@@ -3478,6 +3526,7 @@ Room Area
 
 .room-details-title h2 {
   text-align: right;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-left: 200px;
   font-size: 26px;
   margin-bottom: 20px;
@@ -3518,6 +3567,7 @@ Room Area
 .room-details-review h2 {
   font-size: 26px;
   margin-bottom: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .room-details-review .review-ratting {
@@ -3525,6 +3575,7 @@ Room Area
 }
 
 .room-details-review .review-ratting h3 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   font-size: 16px;
   color: #555555;
   margin-bottom: 0;
@@ -3575,6 +3626,7 @@ Room Area
 
 .room-details-other .room-details-text h2 {
   font-size: 26px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 0;
 }
 
@@ -3684,6 +3736,7 @@ Testimonials Area
 
 .testimonials-item ul li h3 {
   margin-bottom: 0;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .testimonials-item ul li span {
@@ -3909,6 +3962,8 @@ Testimonials Area
 
 .testimonials-slider-content ul li h3 {
   margin-bottom: 0;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+
 }
 
 .testimonials-slider-content ul li span {
@@ -3958,11 +4013,11 @@ Faq Area
 
 .faq-content .faq-accordion .accordion .accordion-title {
   padding: 10px 20px 10px 20px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   color: #292323;
   text-decoration: none;
   position: relative;
   display: block;
-  font-family: "Noto Serif", serif;
   font-size: 18px;
   font-weight: 600;
 }
@@ -4431,6 +4486,7 @@ Team Area
 }
 
 .team-item .content h3 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 0px;
   font-size: 24px;
   text-align: center;
@@ -4550,6 +4606,7 @@ Team Area
 .team-card .content h3 {
   margin-bottom: 0px;
   font-size: 24px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   text-align: center;
 }
 
@@ -4740,6 +4797,7 @@ Booking Area
 
 .booking-form h3 {
   font-size: 26px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 20px;
 }
 
@@ -4759,6 +4817,8 @@ Booking Area
 
 .booking-form .form-group label {
   font-weight: 600;
+  text-align: right !important;
+  direction: rtl !important;
   color: #1B2132;
   margin-bottom: 10px;
 }
@@ -4857,6 +4917,7 @@ Checkout Area
 
 .billing-details h3 {
   font-size: 24px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   color: #292323;
   margin-bottom: 15px;
   font-weight: 600;
@@ -5133,10 +5194,13 @@ Checkout Area End
 .single-content {
   margin-bottom: 30px;
 }
-
+.single-area-content h3 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+}
 .single-content h3 {
   font-size: 24px;
   color: #292323;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 15px;
 }
 
@@ -5208,6 +5272,7 @@ Blog Area
 
 .blog-card .blog-content h3 {
   margin-top: 10px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   font-size: 24px;
   margin-bottom: 10px;
   font-weight: 700;
@@ -5310,6 +5375,7 @@ Blog Area
 }
 
 .blog-item .content h3 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-top: 10px;
   font-size: 22px;
   margin-bottom: 10px;
@@ -5402,9 +5468,12 @@ Blog Area
   border-bottom: 1px solid #131b46;
   padding-bottom: 15px;
 }
-
+.comments-wrap h3 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+}
 .blog-article .blog-article-title h2 {
   font-size: 30px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 20px;
   max-width: 650px;
 }
@@ -5510,6 +5579,7 @@ Blog Area
   position: relative;
   padding: 30px;
   padding-left: 95px;
+
   margin-bottom: 30px;
   background-color: #F5F5F5;
 }
@@ -5529,6 +5599,7 @@ Blog Area
   margin-bottom: 0;
   font-size: 20px;
   font-weight: 500;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
 }
 
 .blog-article .comments-wrap ul li span {
@@ -5564,6 +5635,7 @@ Blog Area
 
 .blog-article .comments-form .contact-form h2 {
   font-size: 26px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 30px;
 }
 
@@ -5695,7 +5767,9 @@ Blog Area
 .side-bar-widget .widget-popular-post .item .info .title-text {
   margin-bottom: 5px;
   line-height: 1.5;
-  font-size: 17px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
+  font-size: 15px;
+  margin-right: 5px;
   font-weight: 700;
   max-width: 215px;
 }
@@ -5778,6 +5852,7 @@ Restaurant Item
 
 .restaurant-item .restaurant-content h3 {
   font-size: 20px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   color: #292323;
   margin-bottom: 10px;
 }
@@ -5796,7 +5871,8 @@ Restaurant Item
 }
 
 .restaurant-item .restaurant-content h4 {
-  font-size: 30px;
+  font-size: 20px;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   color: #131b46;
   margin-bottom: 0;
 }
@@ -5872,6 +5948,7 @@ Pagination Area End
 .error-area .error-content h3 {
   text-align: center;
   margin: 30px 0 0;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   position: relative;
   color: #292323;
   font-size: 35px;
@@ -5930,6 +6007,7 @@ Coming Soon Area
 
 .coming-soon-area .coming-soon-content h1 {
   text-align: center;
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-bottom: 0;
   color: #ffffff;
   font-size: 60px;
@@ -6106,6 +6184,7 @@ Footer Area
 }
 
 .footer-widget h3 {
+  font-family: "Vazirmatn", Tahoma, sans-serif; !important;
   margin-top: 0;
   font-size: 24px;
   margin-bottom: 30px;

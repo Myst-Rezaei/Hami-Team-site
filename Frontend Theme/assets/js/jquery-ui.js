@@ -4,21 +4,152 @@
 * Copyright jQuery Foundation and other contributors; Licensed MIT */
 
 
-
-$("p").replaceWith("<p>این متن صرفاً جهت نمایش چیدمان عناصر در صفحه استفاده می‌شود و هیچ مفهوم خاصی ندارد. شما می‌توانید این متن را با محتوای اصلی خود جایگزین نمایید تا نتیجه نهایی طراحی را مشاهده کنید.</p>");
-$("h2").replaceWith("<h2>تیتر/توضیحات</h2>");
-$("h3").replaceWith("<h3>تیتر/توضیحات</h3>");
-$("h4").html("این متن نقش پرکننده دارد");
-$(".read-btn").html("ادامه");
-$(".book-more-btn").html("رزرو");
-$(".blog-card .blog-content span").html("تاریخ");
-$(".team-item .content span").html("این متن نقش پرکننده دارد");
-$(".testimonials-slider-content ul li span").html("توضیحات");
-$(".faq-content .faq-accordion .accordion .accordion-title").html("این متن نقش پرکننده دارد");
-$(".section-title span").html("این متن نقش پرکننده دارد");
-$(".quick-btn").html("رزرو سریع");
-$(".services-card .get-btn").html("رزرو خدمات");
-$(".gallery-tab .tabs li a").html("تیتر فرعی");
+$(".footer-area").html(" <div class=\"container\">\n" +
+	"                <div class=\"footer-top pt-100 pb-70\">\n" +
+	"                    <div class=\"row align-items-center\">\n" +
+	"                        <div class=\"col-lg-3 col-md-6\">\n" +
+	"                            <div class=\"footer-widget\">\n" +
+	"                                <div class=\"footer-logo\">\n" +
+	"                                    <a href=\"index.html\">\n" +
+	"                                        <img src=\"assets/img/logos/footer-logo3.png\" alt=\"Images\">\n" +
+	"                                    </a>\n" +
+	"                                </div>\n" +
+	"                                <p>\n" +
+	"                                    Aenean finibus convallis nisl sit amet hendrerit. Etiam blandit velit non lorem mattis, non ultrices eros bibendum .\n" +
+	"                                </p>\n" +
+	"                                <ul class=\"footer-list-contact\">\n" +
+	"                                    <li>\n" +
+	"                                        <i class='bx bx-home-alt'></i>\n" +
+	"                                        <a href=\"#\">123 Stanton, Virginia, USA</a>\n" +
+	"                                    </li>\n" +
+	"                                    <li>\n" +
+	"                                        <i class='bx bx-phone-call'></i>\n" +
+	"                                        <a href=\"tel:+1-(123)-456-7890\">+1 (123) 456 7890</a>\n" +
+	"                                    </li>\n" +
+	"                                    <li>\n" +
+	"                                        <i class='bx bx-phone-call'></i>\n" +
+	"                                        <a href=\"tel:+1-(123)-456-7890\">+1 (123) 456 7890</a>\n" +
+	"                                    </li>\n" +
+	"                                </ul>\n" +
+	"                            </div>\n" +
+	"                        </div>\n" +
+	"    \n" +
+	"                        <div class=\"col-lg-3 col-md-6\">\n" +
+	"                            <div class=\"footer-widget pl-5\">\n" +
+	"                                <h3>Links</h3>\n" +
+	"                                <ul class=\"footer-list\">\n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"about.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            درباره ما\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"services-1.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            خدمات\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"team.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            تیم ما\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"gallery.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            گالری\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"terms-condition.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            شرایط\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"privacy-policy.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            سیاست حفظ حریم خصوصی\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                </ul>\n" +
+	"                            </div>\n" +
+	"                        </div>\n" +
+	"    \n" +
+	"                        <div class=\"col-lg-3 col-md-6\">\n" +
+	"                            <div class=\"footer-widget\">\n" +
+	"                                <h3>Useful Links</h3>\n" +
+	"                                <ul class=\"footer-list\">\n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"index.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            صفحه اصلی\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"blog-1.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            بلاگ\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"faq.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            پرسش و پاسخ\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"testimonials.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            نظرات و پیشنهادات\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"gallery.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            گالری\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                    <li>\n" +
+	"                                        <a href=\"contact.html\" target=\"_blank\">\n" +
+	"                                            <i class='bx bx-caret-right'></i>\n" +
+	"                                            ارتباط با ما\n" +
+	"                                        </a>\n" +
+	"                                    </li> \n" +
+	"                                </ul>\n" +
+	"                            </div>\n" +
+	"                        </div>\n" +
+	"    \n" +
+	"                        <div class=\"col-lg-3 col-md-6\">\n" +
+	"                            <div class=\"footer-widget\">\n" +
+	"                                <h3>Newsletter</h3>\n" +
+	"                                <p>\n" +
+	"                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. \n" +
+	"                                    Nullam tempor eget ante fringilla rutrum aenean sed venenatis .\n" +
+	"                                </p>\n" +
+	"                                <div class=\"footer-form\">\n" +
+	"                                    <form class=\"newsletter-form\" data-toggle=\"validator\" method=\"POST\">\n" +
+	"                                        <div class=\"row\">\n" +
+	"                                            <div class=\"col-lg-12\">\n" +
+	"                                                <div class=\"form-group\">\n" +
+	"                                                    <input type=\"email\" class=\"form-control\" placeholder=\"ایمیل*\" name=\"EMAIL\" required autocomplete=\"off\">\n" +
+	"                                                </div>\n" +
+	"                                            </div>\n" +
+	"    \n" +
+	"                                            <div class=\"col-lg-12 col-md-12\">\n" +
+	"                                                <button type=\"submit\" class=\"default-btn btn-bg-one\">\n" +
+	"                                                    الان دنبال کنید\n" +
+	"                                                </button>\n" +
+	"                                                <div id=\"validator-newsletter\" class=\"form-result\"></div>\n" +
+	"                                            </div>\n" +
+	"                                        </div>\n" +
+	"                                    </form>\n" +
+	"                                </div>\n" +
+	"                            </div>\n" +
+	"                        </div>\n" +
+	"                    </div>");
 $(".top-header").html("<div class=\"container\">\n" +
 	"                <div class=\"row align-items-center\">\n" +
 	"                    <div class=\"col-lg-3 col-md-2 pr-0\">\n" +
@@ -53,6 +184,28 @@ $(".top-header").html("<div class=\"container\">\n" +
 	"                    </div>\n" +
 	"                </div>\n" +
 	"            </div>");
+$("p").replaceWith("<p>این متن صرفاً جهت نمایش چیدمان عناصر در صفحه استفاده می‌شود و هیچ مفهوم خاصی ندارد. شما می‌توانید این متن را با محتوای اصلی خود جایگزین نمایید تا نتیجه نهایی طراحی را مشاهده کنید.</p>");
+$("h2").replaceWith("<h2>تیتر/توضیحات</h2>");
+$("h3").replaceWith("<h3>تیتر/توضیحات</h3>");
+$(".banner-content h1").html("رزرو هتل در مشهد با مناسب ترین قیمت");
+$(".room-card-two .room-card-content span").html("شبی 500هزار تومان ");
+$(".room-card .content ul").html("شبی 500هزار تومان ");
+$(".room-card-two .room-card-content ul li i").html("جزئیات");
+$("").html("");
+$("h4").html("این متن نقش پرکننده دارد");
+$(".services-bar-widget .side-bar-categories ul li a").html("تیتر فرعی");
+$(".read-btn").html("ادامه");
+$(".book-more-btn").html("رزرو");
+$(".blog-card .blog-content span").html("تاریخ");
+$(".team-item .content span").html("این متن نقش پرکننده دارد");
+$(".testimonials-slider-content ul li span").html("توضیحات");
+$(".faq-content .faq-accordion .accordion .accordion-title").html("این متن نقش پرکننده دارد");
+$(".section-title span").html("این متن نقش پرکننده دارد");
+$(".quick-btn").html("رزرو سریع");
+$(".services-card .get-btn").html("رزرو خدمات");
+$(".gallery-tab .tabs li a").html("تیتر فرعی");
+$(".reservation-tab .tabs li a").html("تیتر فرعی");
+
 $(".navbar-area").html(" <!-- Menu For Mobile Device -->\n" +
 	"            <div class=\"mobile-nav\">\n" +
 	"                <a href=\"index.html\" class=\"logo\">\n" +
@@ -84,17 +237,17 @@ $(".navbar-area").html(" <!-- Menu For Mobile Device -->\n" +
 	"                                    <ul class=\"dropdown-menu\">\n" +
 	"                                        <li class=\"nav-item\">\n" +
 	"                                            <a href=\"index.html\" class=\"nav-link active\">\n" +
-	"                                                Home One  \n" +
+	"                                                صفحه اصلی استایل اول\n" +
 	"                                            </a>\n" +
 	"                                        </li>\n" +
 	"                                        <li class=\"nav-item\">\n" +
 	"                                            <a href=\"index-2.html\" class=\"nav-link\">\n" +
-	"                                                Home Two\n" +
+	"                                                 صفحه اصلی استایل دوم\n" +
 	"                                            </a>\n" +
 	"                                        </li>\n" +
 	"                                        <li class=\"nav-item\">\n" +
 	"                                            <a href=\"index-3.html\" class=\"nav-link\">\n" +
-	"                                                Home Three\n" +
+	"                                                 صفحه اصلی استایل سوم\n" +
 	"                                            </a>\n" +
 	"                                        </li>\n" +
 	"                                    </ul>\n" +
@@ -159,13 +312,13 @@ $(".navbar-area").html(" <!-- Menu For Mobile Device -->\n" +
 	"                                        \n" +
 	"                                        <li class=\"nav-item\">\n" +
 	"                                            <a href=\"sign-in.html\" class=\"nav-link\">\n" +
-	"                                                ثبتنام\n" +
+	"                                                ورود به حساب\n" +
 	"                                            </a>\n" +
 	"                                        </li>\n" +
 	"\n" +
 	"                                        <li class=\"nav-item\">\n" +
 	"                                            <a href=\"sign-up.html\" class=\"nav-link\">\n" +
-	"                                                ورود به حساب\n" +
+	"                                                ثبتنام\n" +
 	"                                            </a>\n" +
 	"                                        </li>\n" +
 	"\n" +
