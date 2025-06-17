@@ -414,14 +414,16 @@
     }
 
     /* Room Area CSS */
-    .room-card {
+   .room-card {
         .content {
             .rating {
                 top: auto;
                 bottom: 20px;
+
             }
         }
     }
+
     .room-card-two {
         .room-card-img {
             padding-left: 15px;
@@ -1456,7 +1458,7 @@
                 font-size: 15px;
                 top: 45px;
                 right: 20px;
-            }
+
             ul {
                 li {
                     font-size: 14px;
@@ -1524,11 +1526,12 @@
     .testimonials-content {
         padding: 40px 30px;
     }
-    .room-card {
+   .room-card {
         .content {
             .rating {
                 top: auto;
                 bottom: 20px;
+
             }
         }
     }

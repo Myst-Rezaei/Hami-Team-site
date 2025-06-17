@@ -150,40 +150,39 @@ $(".footer-area").html(" <div class=\"container\">\n" +
 	"                            </div>\n" +
 	"                        </div>\n" +
 	"                    </div>");
-$(".top-header").html("<div class=\"container\">\n" +
-	"                <div class=\"row align-items-center\">\n" +
-	"                    <div class=\"col-lg-3 col-md-2 pr-0\">\n" +
-	"                        <div class=\"language-list\">\n" +
-	"                            <select class=\"language-list-item\">\n" +
-	"                                <option>English</option>\n" +
-	"                                <option>العربيّة</option>\n" +
-	"                                <option>Deutsch</option>\n" +
-	"                                <option>Português</option>\n" +
-	"                                <option>简体中文</option>\n" +
-	"                            </select>\t\n" +
-	"                        </div>\n" +
-	"                    </div>\n" +
+$(".top-header").html(" <div class=\"container\">\n" +
+	"                <div class=\"quick-contact\">\n" +
+	"                    <!-- <div class=\"col-lg-3 col-md-2 pr-0\">\n" +
+	"                          <div class=\"language-list\">\n" +
+	"                              <select class=\"language-list-item\">\n" +
+	"                                  <option>English</option>\n" +
+	"                                  <option>العربيّة</option>\n" +
+	"                                  <option>Deutsch</option>\n" +
+	"                                  <option>Português</option>\n" +
+	"                                  <option>简体中文</option>\n" +
+	"                              </select>\n" +
+	"                          </div>\n" +
+	"                      </div>-->\n" +
 	"\n" +
-	"                    <div class=\"col-lg-9 col-md-10\">\n" +
-	"                        <div class=\"header-right\">\n" +
-	"                            <ul>\n" +
-	"                                <li>\n" +
-	"                                    <i class='bx bx-home-alt'></i>\n" +
-	"                                    <a href=\"#\">حامی_تیم،رزرو هتل در مشهد با مناسب ترین قیمت</a>\n" +
-	"                                </li>\n" +
-	"                                <li>\n" +
-	"                                    <i class='bx bx-phone-call'></i>\n" +
-	"                                    <a href=\"tel:+989351630169\">09351630169</a>\n" +
-	"                                </li>\n" +
-	"                                <li>\n" +
-	"                                    <i class='bx bx-phone-call'></i>\n" +
-	"                                    <a href=\"tel:+985191690169\">05191690169</a>\n" +
-	"                                </li>\n" +
-	"                            </ul>\n" +
-	"                        </div>\n" +
-	"                    </div>\n" +
-	"                </div>\n" +
-	"            </div>");
+	"                      <div class=\"quick-contact-info\">\n" +
+	"                          <div class=\"header-right\">\n" +
+	"                              <ul>\n" +
+	"                                  <li>\n" +
+	"                                      <i class='bx bx-home-alt'></i>\n" +
+	"                                      <a href=\"#\">حامی_تیم،رزرو هتل در مشهد با مناسب ترین قیمت</a>\n" +
+	"                                  </li>\n" +
+	"                                  <li>\n" +
+	"                                      <i class='bx bx-phone-call'></i>\n" +
+	"                                      <a href=\"tel:+989351630169\">09351630169</a>\n" +
+	"                                  </li>\n" +
+	"                                  <li>\n" +
+	"                                      <i class='bx bx-phone-call '></i>\n" +
+	"                                      <a href=\"tel:+985191690169\">05191690169</a>\n" +
+	"                                  </li>\n" +
+	"                              </ul>\n" +
+	"                          </div>\n" +
+	"                      </div>\n" +
+	"                  </div>");
 $("p").replaceWith("<p>این متن صرفاً جهت نمایش چیدمان عناصر در صفحه استفاده می‌شود و هیچ مفهوم خاصی ندارد. شما می‌توانید این متن را با محتوای اصلی خود جایگزین نمایید تا نتیجه نهایی طراحی را مشاهده کنید.</p>");
 $("h2").replaceWith("<h2>تیتر/توضیحات</h2>");
 $("h3").replaceWith("<h3>تیتر/توضیحات</h3>");
@@ -276,7 +275,7 @@ $(".navbar-area").html(" <!-- Menu For Mobile Device -->\n" +
 	"                                        </li>\n" +
 	"                                        <li class=\"nav-item\">\n" +
 	"                                            <a href=\"faq.html\" class=\"nav-link\">\n" +
-	"                                                پرسش و پاسخ\n" +
+	"                                               سوالات پرتکرار\n" +
 	"                                            </a>\n" +
 	"                                        </li>\n" +
 	"\n" +

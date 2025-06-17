@@ -5,26 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f331646-4abc-4002-9244-a47ac2f6e0d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/css/responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/css/responsive.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/home-banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/home-banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/img/inner-banner/inner-banner9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/js/jquery-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/blog-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/blog-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/blog-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/coming-soon.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/coming-soon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/assets/js/jquery.datetimepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/assets/js/jquery.datetimepicker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend Theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/reservation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/reservation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend Theme/room-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/room-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/room.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/room.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend Theme/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/service-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/sign-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend Theme/sign-up.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/sign-up.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/services-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/services-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/services-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/services-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/user-booking-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/user-booking-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/user-change-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/user-change-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/user-dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/user-dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/user-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/user-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend Theme/user-reservation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend Theme/user-reservation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +102,13 @@
       <workItem from="1747063104003" duration="97000" />
       <workItem from="1747222735526" duration="11069000" />
       <workItem from="1747477390093" duration="6000" />
-      <workItem from="1747654651289" duration="10849000" />
+      <workItem from="1747654651289" duration="11593000" />
+      <workItem from="1747827028559" duration="1006000" />
+      <workItem from="1748069153718" duration="8462000" />
+      <workItem from="1748167948966" duration="767000" />
+      <workItem from="1748242882178" duration="3960000" />
+      <workItem from="1748679713431" duration="2343000" />
+      <workItem from="1750159461268" duration="5129000" />
     </task>
     <servers />
   </component>
